@@ -14,7 +14,7 @@ body {
   }
   
   nav {
-      margin-top: 16px;
+      margin-top: 30px;
       float: right;
     }
 
@@ -45,7 +45,7 @@ body {
     margin-left: calc((100% - 800px) / 2);
   }
   
-  div {;
+  div {
     font-family: consolas;
     width: 40%;
     float: left;
